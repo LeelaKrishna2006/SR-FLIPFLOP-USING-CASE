@@ -64,8 +64,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
                      qbar=r|(~s&~q);
                   end
                   endmodule 
-                  Developed by: pothu sumanth
-                  RegisterNumber: 24000831
+            
+                  Developed by: arani leela krishna
+                  RegisterNumber: 212224240013
                   */
 
 *RTL LOGIC FOR FLIPFLOPS*
