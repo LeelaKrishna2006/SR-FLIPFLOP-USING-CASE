@@ -48,8 +48,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-Developed by: NALLAMALLI VENKATA CHETAN SATWIK
-RegisterNumber: 212224240100
+Developed by: ARANI VENKATA SUNDARA LEELA KRISHNA
+RegisterNumber: 212224240013
 
 ```VHDL
 
